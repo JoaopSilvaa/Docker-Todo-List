@@ -1,1 +1,1 @@
-docker ps -a --format "table {{.Names}}"
+docker container ls -l
