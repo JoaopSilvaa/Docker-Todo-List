@@ -24,8 +24,8 @@ Aqui estão dispostos vários comandos do `docker` com diferentes níveis de com
     * Exemplo: `git checkout -b joaozinho-docker-todo-list`<br />
 4. Instale as dependências gerais do projeto 
   `npm install`
-5. Suba a aplicação
-    Utilizanddo o `comando 12` da pasta `docker/docker-commands/` você subirá o docker-compose da aplicação podendo acessá-la e utilizá-la em seu navegador.
+5. Suba a aplicação <br />
+    Utilizando o `comando 12` da pasta `docker/docker-commands/` você subirá o docker-compose da aplicação podendo acessá-la e utilizá-la em seu navegador.
     
 <br><br>
 Este projeto foi desenvolvido por [João Antônio](https://www.linkedin.com/in/joaoantoniosilvaa/) durante o curso de Desenvolvimento de Software na [Trybe](https://www.betrybe.com/) 
